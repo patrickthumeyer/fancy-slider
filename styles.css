@@ -72,22 +72,22 @@ h1 {
 }
 
 .slider-item:first-child {
-  background-image: url(/pics/1014-6016x4000.jpg);
+  background-image: url("./pics/1014-6016x4000.jpg");
 }
 .slider-item:nth-child(2) {
-  background-image: url(/pics/1015-6000x4000.jpg);
+  background-image: url("./pics/1015-6000x4000.jpg");
 }
 .slider-item:nth-child(3) {
-  background-image: url(/pics/1026-4621x3070.jpg);
+  background-image: url("./pics/1026-4621x3070.jpg");
 }
 .slider-item:nth-child(4) {
-  background-image: url(/pics/1040-4496x3000.jpg);
+  background-image: url("./pics/1040-4496x3000.jpg");
 }
 .slider-item:nth-child(5) {
-  background-image: url(/pics/1069-700x500.jpg);
+  background-image: url("./pics/1069-700x500.jpg");
 }
 .slider-item:nth-child(6) {
-  background-image: url(/pics/1062-5092x3395.jpg);
+  background-image: url("./pics/1062-5092x3395.jpg");
 }
 
 .slider-item:hover {
